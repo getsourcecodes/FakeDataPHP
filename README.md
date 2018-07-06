@@ -1,6 +1,6 @@
 # FakeDataPHP
 
-http://www.getsourcecode.com
+http://www.getsourcecodes.com
 
 Generate dummy data in php
 
